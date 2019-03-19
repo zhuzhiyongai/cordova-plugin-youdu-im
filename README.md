@@ -1,5 +1,5 @@
 # cordova-plugin-youdu-im
-This is a [Cordova](http://cordova.apache.org/) plugin for RongCloud YouDuIM.framework.For more detailed information about underlying business processes  (https://youdu.im/).
+This is a [Cordova](http://cordova.apache.org/) plugin for YouDuIM.For more detailed information about underlying business processes  (https://youdu.im/).
 
 # Install
 
