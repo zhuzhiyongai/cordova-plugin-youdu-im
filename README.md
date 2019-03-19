@@ -18,4 +18,4 @@ The plugin is available via a global variable named `YouDuLibPlugin`. It exposes
 All functions accept optional success and failure callbacks as their final two arguments, where the failure callback will receive an error string as an argument unless otherwise noted.
 
 ## Demo
-待 完善
+待 完善待 完善待 完善待 完善待 完善待 完善
