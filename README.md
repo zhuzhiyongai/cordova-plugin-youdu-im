@@ -79,6 +79,7 @@ error回调数据
 cordova.plugins.YouDuIMPlugin.RegisterForRemotePush(enablePush, success, error);
 ```
 enablePush打开消息推送开关 success 成功回调函数,error错误回调函数
+
 ### 获取会话列表
 ```
 cordova.plugins.YouduIMPlugin.getSessionList(success, error);
